@@ -8,8 +8,7 @@
 
 <img align= "right" alt ="alt name" width="300" src="https://user-images.githubusercontent.com/109269344/228836721-59402513-6f0a-4f2b-bc75-97fb2453e3ea.gif">
 
-- 🔭 I’m currently working on [Motion Planning using Deep-RL](https://github.com/RaviAgrawal-1824/Motion_Planning_using_Deep_Reinforcement_Learning).
-<!-- - 🔭 I’m currently working on [Motion Planning using Deep Reinforcement Learning](https://github.com/RaviAgrawal-1824/Motion_Planning_using_Deep_Reinforcement_Learning). -->
+- 🔭 I’m currently working on [Motion Planning using Deep Reinforcement Learning](https://github.com/RaviAgrawal-1824/Motion_Planning_using_Deep_Reinforcement_Learning).
 
 - 🌱 I’m currently exploring different variants **Reinforcement Learning**.
 
@@ -28,8 +27,9 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviagrawal-1824&show_icons=true&locale=en" alt="raviagrawal-1824" width="700"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviagrawal-1824&show_icons=true&locale=en&layout=compact" alt="raviagrawal-1824" width="500"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviagrawal-1824&border_color=0000ff&title_color=0000ff&show_icons=true&theme=chartreuse-dark&icon_color=0000ff" alt="raviagrawal-1824" width="700"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviagrawal-1824&layout=compact&title_color=0000ff&border_color=0000ff&show_icons=true&theme=chartreuse-dark&icon_color=0000ff" alt="raviagrawal-1824" width="500"/>
 
 <!-- https://user-images.githubusercontent.com/109269344/228855165-acecaca6-b74e-4832-8e6f-912788a2e493.svg -->
 <!-- <a href="http://wiki.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros" width="100" height="100"  /> </a> -->
