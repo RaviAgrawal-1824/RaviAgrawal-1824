@@ -8,7 +8,7 @@
 
 <img align= "right" alt ="alt name" width="300" src="https://user-images.githubusercontent.com/109269344/228836721-59402513-6f0a-4f2b-bc75-97fb2453e3ea.gif">
 
-- 🔭 I’m currently working on [Motion Planning using Deep Reinforcement Learning](https://github.com/RaviAgrawal-1824/Motion_Planning_using_Deep_Reinforcement_Learning).
+- 🔭 I’m currently working on [Design of Standard VTOL UAVs for last mile delivery.](https://docs.google.com/document/d/1RvwhlTn6gbgeKq2clOvvXEuTmL-HQrIkc1x2omlpCyc/edit#heading=h.pny4juvf1558).
 
 - 🌱 I’m currently exploring different variants **Reinforcement Learning**.
 
