@@ -8,11 +8,13 @@
 
 <img align= "right" alt ="alt name" width="300" src="https://user-images.githubusercontent.com/109269344/228836721-59402513-6f0a-4f2b-bc75-97fb2453e3ea.gif">
 
-- 🔭 I’m currently working on [Design and fabrication of Standard VTOL UAVs for last mile delivery](https://docs.google.com/document/d/1RvwhlTn6gbgeKq2clOvvXEuTmL-HQrIkc1x2omlpCyc/edit#heading=h.pny4juvf1558).
+- 🔭 I’m currently working on [Design and fabrication of Standard VTOL UAVs for last mile delivery](https://getupnote.com/share/notes/J3gPOlJXXSTMMuohEnc2ZtthHMI2/b2b4a3ee-2a92-4bac-acfe-fde38e55338b).
 
-- 🌱 I’m currently exploring different variants **Reinforcement Learning**.
+- 🌱 I’m currently exploring **wing morphing** and **flapping wing UAVs**.
 
-- 🤖 A member of IvLabs, the AI and Robotics research community of VNIT, India.
+- I'm always up for discussions on **Reinforcement Learning**, **Optimisation Methods**, and **UAVs**.
+
+- 🤖 A member of **IvLabs**, the AI and Robotics research community of VNIT, India.
 
 - 📫 Reach me at **raviagrawal1824@gmail.com**.
 
